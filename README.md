@@ -1,3 +1,3 @@
 # BBT-Studio
 
-https://oshankiiii12.github.io/BBT-Studio/
+https://oshankiii12.github.io/BBT-Studio/
